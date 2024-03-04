@@ -1,0 +1,12 @@
+pandas
+torch>=1.10.0  # Adjust minimum version based on your compatibility needs
+numpy
+einops
+transformers>=4.25.1 
+datasets
+tqdm
+rich
+jaxtyping  # If you're utilizing JAX-like typing
+wandb
+transformer_lens
+pytest
